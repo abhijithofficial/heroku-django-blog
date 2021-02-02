@@ -38,6 +38,7 @@ running Django
  python manage.py runserver
 ```
 
-##URL
+## URL
+
 Admin URL: ``` localhost:8000/admin```
 Django URL : ``` localhost:8000/```
